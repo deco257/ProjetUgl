@@ -1,0 +1,25 @@
+.margintop{margin-top:20px;}
+.body{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    min-height: 100vh;
+    padding: 40px 48px;
+    align-items: center;
+    justify-content: center;
+    /*background:url("../images/cournon-dimanche-14-1120x700.jpg");*/
+}
+.div1{margin-left:500px;
+      margin-top:-370px;
+    margin-right: 200PX;
+    background-color: azure;
+}
+.div0{margin-right:760px;
+margin-top: 0px;
+    backface-visibility: visible;
+  background-color: azure;
+}
+.ferst{margin-left:150px;
+margin-right: 150px;
+padding-right:60px;
+background-color: aqua;}
